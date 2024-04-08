@@ -1,0 +1,14 @@
+F:\Study\Java\dz\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study\Java\dz\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+F:\Study\Java\dz\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+F:\Study\Java\dz\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+F:\Study\Java\dz\task2\bin\Debug\net7.0\task2.exe
+F:\Study\Java\dz\task2\bin\Debug\net7.0\task2.deps.json
+F:\Study\Java\dz\task2\bin\Debug\net7.0\task2.runtimeconfig.json
+F:\Study\Java\dz\task2\bin\Debug\net7.0\task2.dll
+F:\Study\Java\dz\task2\bin\Debug\net7.0\task2.pdb
+F:\Study\Java\dz\task2\obj\Debug\net7.0\task2.dll
+F:\Study\Java\dz\task2\obj\Debug\net7.0\refint\task2.dll
+F:\Study\Java\dz\task2\obj\Debug\net7.0\task2.pdb
+F:\Study\Java\dz\task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+F:\Study\Java\dz\task2\obj\Debug\net7.0\ref\task2.dll
